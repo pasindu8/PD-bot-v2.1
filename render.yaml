@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: pd bot
+    env: docker
+    region: Frankfurt
+    plan: premium
+ 
